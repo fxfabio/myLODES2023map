@@ -2,7 +2,7 @@
 
 An interactive, self-contained web map exploring **where people live and work** across all 231,939 Census blocks in New York State, built from the U.S. Census Bureau's [LEHD Origin-Destination Employment Statistics (LODES)](https://lehd.ces.census.gov/data/) dataset.
 
-👉 **[Live map →](https://YOUR-USERNAME.github.io/ny-lodes-map/)**
+👉 **[Live map →](https://fxfabio.github.io/ny-lodes-map/)**
 
 ---
 
